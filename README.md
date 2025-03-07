@@ -1,5 +1,9 @@
 <h1 align="center"> Amigo Secreto 🔍</h1>
 
+<p align="center">
+  ![Feito em Março](https://img.shields.io/badge/Feito%20em-Março-blue)
+</p>
+
 ##  Sobre o projeto
 Este projeto foi criado a partir do desafio **"Challenge Amigo Secreto"** da Alura, como uma forma de testar as habilidades aprendidas no programa **Alura + Oracle G8-ONE**.  
 
