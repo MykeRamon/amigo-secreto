@@ -1,7 +1,7 @@
 <h1 align="center"> Amigo Secreto 🔍</h1>
 
 <p align="center">
-  ![Feito em Março](https://img.shields.io/badge/Feito%20em-Março-blue)
+  <img src="https://img.shields.io/badge/Feito%20em-Março-blue" alt="Feito em Março" />
 </p>
 
 ##  Sobre o projeto
