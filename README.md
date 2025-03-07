@@ -3,7 +3,7 @@
 ##  Sobre o projeto
 Este projeto foi criado a partir do desafio **"Challenge Amigo Secreto"** da Alura, como uma forma de testar as habilidades aprendidas no programa **Alura + Oracle G8-ONE**.  
 
-O desafio era construir uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".  
+O desafio é construir uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".  
 
 ## 🛠 Tecnologias utilizadas
 - HTML  
